@@ -17,11 +17,11 @@ A simple website that displays a list of recipes with search functionality and t
 ## 📑 How to Run the Project
 1. Clone this repository:
    ```sh
-   git clone https://github.com/username/recipe-website.git
+   git clone https://github.com/username/food-recipes-website.git
    ```
 2. Navigate to the project folder:
    ```sh
-   cd recipe-website
+   cd food-recipes-website
    ```
 3. Open **index.html** in your browser.
 
@@ -53,7 +53,7 @@ If you would like to contribute, please **fork** this repository and submit a pu
 ## 🌐 Live Demo
 You can view the live demo of this project on **GitHub Pages**:
 ```
-https://username.github.io/recipe-website/
+https://username.github.io/food-recipes-website/
 ```
 
 ---
