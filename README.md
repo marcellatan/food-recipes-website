@@ -29,7 +29,8 @@ A simple website that displays a list of recipes with search functionality and t
 ```
 recipe-website/
 │-- index.html       # Main page
-│-- favorites.html    # Favorite recipes page
+│-- favorite.html    # Favorite recipes page
+│-- detail.html    # Detail recipes page
 │-- styles.css       # Styling
 │-- script.js        # Application logic
 └── README.md        # Project documentation
