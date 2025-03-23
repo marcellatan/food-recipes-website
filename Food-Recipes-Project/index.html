@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Recipes</title>
+    <link rel="stylesheet" href="style.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <h1>Food Recipes</h1>
+        <input type="text" id="searchInput" placeholder="Search for a recipe...">
+    </header>
+
+    <nav>
+        <button class="category-button active" data-category="all">All</button>
+        <button class="category-button" data-category="appetizer">Appetizer</button>
+        <button class="category-button" data-category="main-course">Main Course</button>
+        <button class="category-button" data-category="dessert">Dessert</button>
+    </nav>
+
+    <a href="favorite.html" class="favorites-link">View Favorites</a>
+    <div id="recipeContainer"></div>
+
+    <script src="script.js"></script>
+</body>
+</html>
